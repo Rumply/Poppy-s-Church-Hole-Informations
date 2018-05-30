@@ -1,8 +1,5 @@
 # Poppy's Church useful script
 
-<h2>Description</h2>
-<p>This project is full of useful script that Guillaume H.G (Rumply) made for fun.</p>
-
 <div>
   <h2>Instructions</h2>
   <ol>
