@@ -1,6 +1,6 @@
 // Copyright (c) 2018 
 // Author: Guillaume H.G (https://github.com/Rumply)
-// Free of use
+// You can no longer know who click the candle so this won't be as useful as wished.
 
 // Variables
 var displayLightInfo = true;
