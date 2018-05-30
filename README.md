@@ -1,6 +1,6 @@
 <h1>:construction: Page under construction :construction:</h1>
 
-# Poppy's Church hole informations
+# Poppy's Church useful script
 
 <h2>Description</h2>
 <p>This project is full of useful script that Guillaume H.G (Rumply) made for fun.</p>
