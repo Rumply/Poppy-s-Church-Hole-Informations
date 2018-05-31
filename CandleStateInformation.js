@@ -39,7 +39,7 @@ else
 $('#candleWrapper, #others .member, .flame,#time').css('opacity', 1);
 
 //This will help with having a bigger timer.
-$('#time').css('font-size', '48px');
+$('#time').css('font-size', '48px').css('opacity', 1);
 
 $('#hole').prepend('<div id="helpingMessage"><p></p></div>');
 $('#helpingMessage').css('position', 'absolute')
